@@ -1,5 +1,5 @@
 ## Table of contents
-* [General info] (#general-info
+* [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
@@ -14,8 +14,10 @@ Project is created with:
 
 ## Setup
 To use git init, ensure you are in the root directory.
+'''
   $ git init name_of_directory
   $ git add .
   $ git commit -m " a message about the projec"
   $ git remote add origin url_of_empty_remote_directory
   $ git push -u origin master
+'''
